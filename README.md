@@ -1,7 +1,6 @@
 # Hi, I'm Divyanshu Mathur 👋  
 
-🎓 Final Year Engineering Student  
-📍 Vellore, Tamil Nadu, India  
+🎓 B-Tech CSE with Data Science from VIT Vellore  
 💡 Aspiring Data Scientist | Machine Learning Engineer  
 
 ---
